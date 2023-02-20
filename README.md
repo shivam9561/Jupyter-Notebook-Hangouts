@@ -1,2 +1,2 @@
 # Jupyter-Notebook-Hangouts
-Python programs performed on Jupyter Notebook
+Python programs with Machine Learning concepts performed on Jupyter Notebook
